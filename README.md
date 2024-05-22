@@ -1,3 +1,4 @@
+
 # About Me
 
 I'm a final year Software Engineering student at The University of Auckland. 
@@ -16,33 +17,15 @@ Even if AI takes over the world I'll still be coding up projects in my free time
 ## Skills
 
 <p align="center">
-  <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
-  </a>
-  <a href="https://webassembly.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="60" height="60"/>
-  </a>
-  <a href="https://www.libsdl.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Simple_DirectMedia_Layer%2C_Logo.svg/1920px-Simple_DirectMedia_Layer%2C_Logo.svg.png" alt="SDL2" width="auto" height="60"/> 
-  </a>
-  <a href="https://emscripten.org/" target="_blank">
     <img src="https://github.com/Argyraspides/Sarissa/assets/95353936/6e619ad7-d610-431d-9c0f-76ac519d074b" alt="Emscripten" width="auto" height="60"/>
-  </a> 
-  <a href="https://github.com/ocornut/imgui" target="_blank">
     <img src="https://github.com/Argyraspides/Telos/assets/95353936/2fd4e08b-a1af-4f22-936e-c82f46fe4a7c" alt="Dear ImGui" width="auto" height="60"/>
-  </a>  
 </p>
 
 
