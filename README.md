@@ -20,8 +20,10 @@ Even if AI takes over the world I'll still be coding up projects in my free time
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/>
     <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Simple_DirectMedia_Layer%2C_Logo.svg/1920px-Simple_DirectMedia_Layer%2C_Logo.svg.png" alt="SDL2" width="auto" height="60"/> 
     <img src="https://github.com/Argyraspides/Sarissa/assets/95353936/6e619ad7-d610-431d-9c0f-76ac519d074b" alt="Emscripten" width="auto" height="60"/>
