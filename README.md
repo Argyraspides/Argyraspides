@@ -7,11 +7,11 @@ Even if AI takes over the world I'll still be coding up projects in my free time
 
 - 🌏 I'm based in Auckland, New Zealand
 
-- 💻 Check out my portfolio site at [gaugamela.me](https://gaugamela.me)
+- 💻 Check out my portfolio site at [gaugamela.me](https://sarissa.vercel.app)
   
-- 🚂 I love all parts of the software world, but especially simulation, modelling, game engines, physics engines, controller software, and nowadays web development.
+- 🚂 I love all parts of the software world, but especially simulation, modelling, game engines, physics engines, controller software, etc
   
-- 🚀 My physics engine is the project I'm most proud of. Written completely in scratch with C++ and works on the web! Check out the source code [here](https://www.github.com/Argyraspides/Telos) and play around with its flying shapes and explosions on my website [here](https://gaugamela.me/Telos) 
+- 🚀 My physics engine is the project I'm most proud of. Written completely in scratch with C++ and works on the web! Check out the source code [here](https://www.github.com/Argyraspides/Telos) and play around with its flying shapes and explosions on my website [here](https://sarissa.vercel.app/Telos) 
 
 
 ## Skills
