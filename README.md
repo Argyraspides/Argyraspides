@@ -1,9 +1,7 @@
 
 # About Me
 
-I'm a final year Software Engineering student at The University of Auckland. 
-
-Even if AI takes over the world I'll still be coding up projects in my free time because I ***LOVE IT***
+I will only stop coding if ChatGPT, Claude, Gemini, Llama, DeepSeek, and all the rest of them grow arms and legs and tear my keyboard and mouse out of my cold, dead hands. Even then, I will fight all of them to the death.
 
 - 🌏 I'm based in Auckland, New Zealand
 
